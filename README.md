@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANUM ARIF</h1>
+
+<img src="https://s3-ap-southeast-2.amazonaws.com/ish-oncourse-scc/a8578396-462f-4f53-a11b-b5754ca8135e?versionId=74YfTieiljW9njtRR4tTFAzHOTR4mzmS">
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [web developmint](https://fainal-hackton.vercel.app/)
